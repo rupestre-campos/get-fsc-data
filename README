@@ -3,7 +3,7 @@
 ## How to use
 
 ```
-git clone $REPO_URL
+git clone https://github.com/rupestre-campos/get-fsc-data.git
 cd get-fsc-data
 sudo apt install python3-venv
 python3 -m venv .venv
